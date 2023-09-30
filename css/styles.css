@@ -1,0 +1,122 @@
+/* Navbar */
+nav {
+    font-family: 'Century Gothic', sans-serif;
+    background-color: rgb(37, 36, 36);
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+
+/* Index */
+body {
+    background-color: rgb(36, 37, 44);
+    
+}
+
+.box {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+    
+}
+.img-box {
+    border-radius: 50%;
+    width: 210px;
+    height: 200px;
+    margin-top: 0%;
+}
+h1 {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+ul {
+    font-family: 'Century Gothic', sans-serif;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+h5 {
+    font-family: 'Century Gothic', sans-serif;
+    color: white;
+    font-size: 10px;
+    letter-spacing: 3px;
+    
+}
+h3 {
+    font-family: 'Century Gothic', sans-serif;
+    color: white;
+    letter-spacing: 3px;
+    
+}
+/* About */
+.about {
+    margin-top: 5%;
+}
+#about_h1 {
+    text-align: center;
+    margin-bottom: 3%;
+}
+.about-box {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+}
+.about-container {
+    width: 400px;
+}
+/* Contact */
+#social {
+    font-family: 'Century Gothic', sans-serif;
+    color: white;
+    font-size: 100px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-top: 10%;
+}
+.icons {
+    scale: 70%;
+}
+a {
+    color: rgb(255, 255, 255);
+  }
+#social li {
+    display: inline-block;
+    margin: 12px;
+}
+
+.form-contact {
+    margin-top: 2%;
+}
+
+.form-inline {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-right: 83%;
+    margin-top: 1%;
+}
+.contact-box {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+}
+/* Survey */
+.box-survey {
+    margin-top: 5%;
+}
+
+  
